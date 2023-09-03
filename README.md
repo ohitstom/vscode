@@ -122,14 +122,14 @@ You can toggle whether to use
 By default, Catppuccin for VSCode uses 3 shades of our `base` color for the workbench.
 For example in Mocha:
 
-- `base: #1e1e2e` - the editor background
-- `mantle: #181825` - the sidebar
-- `crust: #11111b` - the activity bar, status bar and title bar
+- `base`: #1e1e2e - the editor background
+- `mantle`: &#x0023;181825 - the sidebar
+- `crust`: #11111b - the activity bar, status bar and title bar
 
 If you'd like a more flat look, you can change it to `flat`! This only uses `base` and `mantle`, reducing it to 2 shades:
 
-- `base: #1e1e2e` - the editor background
-- `mantle: #181825` - the sidebar, the activity bar, status bar and title bar
+- `base`: #1e1e2e - the editor background
+- `mantle`: &#x0023;181825 - the sidebar, the activity bar, status bar and title bar
 
 <details>
 <summary>📸 Preview</summary>
